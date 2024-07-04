@@ -1,4 +1,4 @@
-import TicTacToe from './tic-tac-toe.tsx'
+import TicTacToe from './tic-tac-toe'
 
 export default function Home() {
   return (
